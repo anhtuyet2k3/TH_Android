@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BAI7_2</string>
+    <string name="title">Giải phương trình bậc 1</string>
+    <string name="btnKQ">Kết quả</string>
+    <string name="lba">"Nhập a: "</string>
+    <string name="lbb">"Nhập b: "</string>
+    <string name="titleResult">Kết quả giải phương trình bậc 1</string>
+    <string name="btnBack">Back</string>
+</resources>
