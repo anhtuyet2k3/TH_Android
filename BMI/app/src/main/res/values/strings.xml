@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="BMI">Chương trình tính chỉ số BMI</string>
+    <string name="txt_Name">Nhập tên:</string>
+    <string name="txt_Height">Chiều cao:</string>
+    <string name="txt_Weight">Cân nặng:</string>
+    <string name="Tx_btn1">Tính BMI</string>
+    <string name="tx_BMI">"BMI = "</string>
+    <string name="txt_Result">Chuẩn đoán:</string>
+    <string name="tx_Result">Chuẩn đoán:</string>
+</resources>
