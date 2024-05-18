@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTTH01_CB2</string>
+    <string name="text_Fahrenheit">Fahrenheit</string>
+    <string name="text_Celsius">Celsius</string>
+    <string name="to_Celsios">Convert to Celsios</string>
+    <string name="to_Celsius">Convert to Celsius</string>
+    <string name="to_Fahrenheit">Convert to Fahrenheit</string>
+    <string name="Clear">Clear</string>
+</resources>
