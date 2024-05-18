@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BAI7_1</string>
+    <string name="text">This is main Activity</string>
+    <string name="btn">Open Child Activity</string>
+    <string name="btn1">Back to Main Activity</string>
+    <string name="text1">This is Child Activity</string>
+</resources>
