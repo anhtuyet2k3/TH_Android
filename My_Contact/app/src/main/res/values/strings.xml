@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bai8_Intent_call_sms</string>
+    <string name="call">Call Phone</string>
+    <string name="sms">Send SMS</string>
+    <string name="title">Input Phone Number</string>
+    <string name="textBack">Back</string>
+</resources>
