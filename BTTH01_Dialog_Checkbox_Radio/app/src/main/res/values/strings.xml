@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BTTH01_Dialog_Checkbox_Radio</string>
+    <string name="title_name">Thông tin cá nhân</string>
+    <string name="lbFullname">Họ tên:</string>
+    <string name="text_CMND">CMND:</string>
+    <string name="text_BCap">Bằng cấp</string>
+    <string name="text_TCap">Trung cấp</string>
+    <string name="text_CDang">Cao đẳng</string>
+    <string name="text_DHoc">Đại học</string>
+    <string name="text_Sothich">Sở thích</string>
+    <string name="text_DBao">Đọc báo</string>
+    <string name="text_DSach">Đọc sách</string>
+    <string name="text_CDing">Đọc coding</string>
+    <string name="text_TTBS">Thông tin bổ sung</string>
+    <string name="text_Send">Gửi thông tin</string>
+</resources>

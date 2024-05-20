@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BAI7_3</string>
+    <string name="title">Yêu cầu kết quả</string>
+    <string name="lba">Nhập A:</string>
+    <string name="lbb">Nhập B:</string>
+    <string name="lbkq">Kết quả:</string>
+    <string name="title1">Xử lý kết quả</string>
+    <string name="lba1">Nhận a:</string>
+    <string name="lbb1">Nhận b:</string>
+    <string name="textSum">TRẢ VỀ TỔNG</string>
+    <string name="textSubtraction">TRẢ VỀ HIỆU</string>
+    <string name="textRequest">YÊU CẦU KẾT QUẢ</string>
+</resources>
