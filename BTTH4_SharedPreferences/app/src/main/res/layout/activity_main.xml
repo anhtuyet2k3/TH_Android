@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/lbA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbNhapA"
+            android:textColor="#240750"
+            android:textSize="30dp" />
+
+        <EditText
+            android:id="@+id/editA"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="30dp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/lbB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbNhapB"
+            android:textColor="#240750"
+            android:textSize="30dp" />
+
+        <EditText
+            android:id="@+id/editB"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="30dp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/lbkq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbNhapKQ"
+            android:textColor="#240750"
+            android:textSize="30dp"
+            tools:text="Kết quả" />
+
+        <EditText
+            android:id="@+id/editKQ"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="30dp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btnTotal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Tong"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/btnClear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Xoa"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/history"
+            android:textColor="#A34343"
+            android:background="#8DECB4"
+            android:textStyle="bold"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:id="@+id/tvHistory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textMultiLine"
+            android:textSize="30dp"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

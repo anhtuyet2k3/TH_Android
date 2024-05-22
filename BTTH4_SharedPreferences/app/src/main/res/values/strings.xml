@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTTH4_SharedPreferences</string>
+    <string name="lbNhapA">Nhập A:</string>
+    <string name="lsu">Lịch sử</string>
+    <string name="Tong">Tổng</string>
+    <string name="Xoa">Xóa</string>
+    <string name="history">Lịch sử</string>
+    <string name="lbNhapB">Nhập B:</string>
+    <string name="lbNhapKQ">Kết quả</string>
+</resources>
