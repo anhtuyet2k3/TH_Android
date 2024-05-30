@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734674840225",
+    "project_id": "btth04-qlsv-firebase",
+    "storage_bucket": "btth04-qlsv-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734674840225:android:f7e01f6a00a2efbaf19ee0",
+        "android_client_info": {
+          "package_name": "com.example.btth04_qlsv_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0p_3NIqklCIwOUruAD3Whl_ABQUhOoYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
