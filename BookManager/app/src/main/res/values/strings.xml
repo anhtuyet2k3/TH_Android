@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Manager</string>
+    <string name="btn">Add Book</string>
+</resources>
